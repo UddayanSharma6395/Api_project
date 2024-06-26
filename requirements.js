@@ -16,19 +16,19 @@
 
 //1. BOOKS
 //We need an API :-
-//To get all the books
-//To get specific book
-//To get a list of books based on category
-//To get a list of books based on languages
+//To get all the books   -  done
+//To get specific book   -  done 
+//To get a list of books based on category   -  done
+//To get a list of books based on languages   -  done
 
 //2. AUTHORS
 //We need an API :-
-//To get all the authors
-//To get a specific author
-//To get a list of authors based on books
+//To get all the authors - done
+//To get a specific author - done
+//To get a list of authors based on books - done
 
 //3. PUBLICATIONS
-//We need an API :-
-//To get all the publications
+//We need an API :- 
+//To get all the publications  
 //To get a specific publication
 //To get a list of publications based on a book
